@@ -15,9 +15,6 @@ using namespace Leap;
 int main(int argc, const char * argv[])
 {
 
-    
-    
-
     Controller controller;
     LeapListener* listener=new LeapListener();
     controller.addListener(*listener);

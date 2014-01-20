@@ -17,7 +17,7 @@
                BlueprintIdentifier = "32AF92E9188C84E800EDF510"
                BuildableName = "LeapPoint"
                BlueprintName = "LeapPoint"
-               ReferencedContainer = "container:LeapPoint.xcodeproj">
+               ReferencedContainer = "container:leappoint.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "32AF92E9188C84E800EDF510"
             BuildableName = "LeapPoint"
             BlueprintName = "LeapPoint"
-            ReferencedContainer = "container:LeapPoint.xcodeproj">
+            ReferencedContainer = "container:leappoint.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -44,7 +44,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
@@ -54,7 +54,7 @@
             BlueprintIdentifier = "32AF92E9188C84E800EDF510"
             BuildableName = "LeapPoint"
             BlueprintName = "LeapPoint"
-            ReferencedContainer = "container:LeapPoint.xcodeproj">
+            ReferencedContainer = "container:leappoint.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,7 +72,7 @@
             BlueprintIdentifier = "32AF92E9188C84E800EDF510"
             BuildableName = "LeapPoint"
             BlueprintName = "LeapPoint"
-            ReferencedContainer = "container:LeapPoint.xcodeproj">
+            ReferencedContainer = "container:leappoint.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		32AF92EE188C84E800EDF510 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 32AF92ED188C84E800EDF510 /* main.cpp */; };
-		32AF92F0188C84E800EDF510 /* LeapPoint.1 in Copy Files */ = {isa = PBXBuildFile; fileRef = 32AF92EF188C84E800EDF510 /* LeapPoint.1 */; };
 		32AF92FB188C854600EDF510 /* LeapListener.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 32AF92F9188C854600EDF510 /* LeapListener.cpp */; };
 		32AF9300188C858300EDF510 /* ApplicationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32AF92FF188C858300EDF510 /* ApplicationServices.framework */; };
 		32AF9308188CD22700EDF510 /* Utilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 32AF9306188CD22700EDF510 /* Utilities.cpp */; };
@@ -24,7 +23,6 @@
 			dstSubfolderSpec = 16;
 			files = (
 				32E4C08B188D2D3000C7079B /* libLeap.dylib in Copy Files */,
-				32AF92F0188C84E800EDF510 /* LeapPoint.1 in Copy Files */,
 			);
 			name = "Copy Files";
 			runOnlyForDeploymentPostprocessing = 0;

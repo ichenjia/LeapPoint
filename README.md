@@ -1,10 +1,10 @@
 LeapPoint
 =========
 
-A minimal Leap Motion control app for controlling PowerPoint on Mac
+A minimalist Leap Motion control app for controlling PowerPoint on Mac
 
 
-This app recognizes 2 types of gestures:
+This app recognizes two gestures:
 
 1. Swipe (must be at least 30 cm in length)
 2. Circle (must be 5mm in radius and reach a full circle)
